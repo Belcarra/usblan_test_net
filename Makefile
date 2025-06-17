@@ -8,7 +8,7 @@
 
 VER=$(shell  python ./version.py)
 
-EXES = usbtestnet.exe pinglog.exe
+EXES = usblantestnet.exe # pinglog.exe
 
 all: ${EXES} belcarra_usbtestkit-${VER}.zip
 
