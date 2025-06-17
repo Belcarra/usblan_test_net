@@ -138,7 +138,7 @@ Generally Microsoft will review in less than 24 hours and if they agree that the
 is not a threat will update their definitions.
 
 
-'''
+```
 usbtestnet.exeSubmission ID: aaaeea06-34bb-46c3-ba68-f55affd2e880
 Status: Completed
 Submitted by: sl@belcarra.com
@@ -158,7 +158,7 @@ Thank you for contacting Microsoft.
 
 Click here for more information
 Thank you for your submission. To provide feedback about your submission experience to the Microsoft Defender team, click here. Please note that providing feedback will not open a new case or change a determination. To request further clarification on a file determination, please create a new submission
-'''
+```
 
 *N.b. After running the suggested commands it appears to take about a day for your local system
 to stop flagging the EXE.*
